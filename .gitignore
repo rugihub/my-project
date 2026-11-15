@@ -1,0 +1,5 @@
+*.tmp
+secret_data/
+*.txt 
+!readme.txt
+!main.txt
